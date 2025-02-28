@@ -1,0 +1,23 @@
+.btn{
+    height: 40px;
+    width: 80px;
+}
+
+.btn-round{
+    border-radius: 1rem;
+}
+
+.btn-red{
+    background-color: #ca3b3b;
+    color: #fff;
+}
+
+.btn-green{
+    background-color: #419641;
+    color: #fff;
+}
+
+.btn-blue{
+    background-color: #1c1ce0;
+    color: #fff;
+}
