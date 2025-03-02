@@ -22,9 +22,10 @@
 		</p>
 
 		<?php 	 
+			
 				if(isset($_POST['login_usuario']) && isset($_POST['login_clave'])){
 					
-						include_once "../php/iniciarSession.php";
+						require_once "./php/iniciarSession.php";
 				
 				}
 

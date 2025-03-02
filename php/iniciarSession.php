@@ -1,6 +1,6 @@
 <?php
 
-require_once "../auxiliar/Conexion.php";
+require_once "./auxiliar/Conexion.php";
 
 
     $username = limpiarCadena($_POST['login_usuario']);
