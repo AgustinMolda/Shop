@@ -1,23 +1,28 @@
 .btn{
+    display: block;
     height: 40px;
     width: 80px;
+    text-decoration: none;
+    line-height: 40px;
+    text-align: center;
+    margin: 10px;
 }
 
 .btn-round{
-    border-radius: 1rem;
+    border-radius: 10px;
 }
 
 .btn-red{
-    background-color: #ca3b3b;
+    background-color: #dc3545;
     color: #fff;
 }
 
 .btn-green{
-    background-color: #419641;
+    background-color:#28a745 ;
     color: #fff;
 }
 
 .btn-blue{
-    background-color: #1c1ce0;
+    background-color:#007bff;
     color: #fff;
 }

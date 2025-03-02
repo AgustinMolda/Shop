@@ -5,4 +5,6 @@
     <title>SHOP</title>
     <link rel="stylesheet" href="../css/estilos.css">
     <link rel="stylesheet" href="../css/buttons.css">
+    <link rel="stylesheet" href="../css/form.css">
+    
 </head>
